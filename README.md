@@ -1,2 +1,2 @@
 # homepage
-find links to my repositorys and news. this is a substitute for a website. link to tutorials will be coming soon. all tutorials and files will be stored on mediafire.
+find links to my repositorys and news. link to tutorials will be coming soon. For support on any program or page, go to issues tab and click new issue.
